@@ -1,0 +1,11 @@
+npm init --yes
+npm i express nodemon cors
+nodemon
+npm i mongoose dotenv
+npm i jsonwebtoken bcrypt joi
+payment: https://stripe.com/docs/payments/accept-a-payment
+https://stripe.com/docs/stripe-cli
+//install scoop
+stripe listen --forward-to localhost:5000/api/stripe/webhook
+npm i cloudinary
+npm i moment
